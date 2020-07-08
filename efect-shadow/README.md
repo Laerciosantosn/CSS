@@ -1,5 +1,7 @@
 # Efeitos Shadow 
-<img src="shadow.png" alt="shadow">
+<div align=center>
+  <img src="shadow.png" alt="shadow" width="400px">
+</div>
 
 ## HTML
 ```html
